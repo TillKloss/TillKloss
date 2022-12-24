@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TillKloss
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java(Spigot-API)
+- 🌱 I’m currently learning C# and Unity
 - 📫 You can reach me on Discord - Till | FirstmineCoding#7777
 
 <!---
