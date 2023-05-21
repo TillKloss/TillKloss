@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TillKloss
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning DataScience with Python
+- 🌱 I’m currently programming my own Discord-Bot
 - 📫 You can reach me on Discord - Till | FirstmineCoding#7777
 
 <!---
