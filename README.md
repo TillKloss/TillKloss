@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TillKloss
 - 👀 I’m interested in programming
 - 🌱 I’m currently programming my own Discord-Bot
-- 📫 You can reach me on Discord - Till | FirstmineCoding#7777
+- 📫 You can reach me on Discord - 1st | FirstmineCoding#5680
 
 <!---
 TillKloss/TillKloss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
