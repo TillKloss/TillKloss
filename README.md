@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TillKloss
-- 👀 I’m interested in programming
+- 👀 I’m interested in Python, DataScience, MachineLearning, SQL, ChatBot Development and more
 - 🌱 I’m currently programming my own Discord-Bot
 - 📫 You can reach me on Discord - 1st | FirstmineCoding#5680
 
