@@ -6,8 +6,7 @@
 🤖 Chat Bot Developer
 
 🌟 Let's connect!  
-📫 [tilleliaskloss@gmail.com](mailto:youremail@example.com)  
+📫 [My Email](mailto:tilleliaskloss@gmail.com)  
 💬 Discord: 1st_firstmine
 
- Check out my [current project](https://github.com/yourusername/yourproject).
-
+ Check out my [current project](https://github.com/TillKloss/BeastWars).
