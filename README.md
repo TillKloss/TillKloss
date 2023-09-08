@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @TillKloss
-- 👀 I’m interested in Python, DataScience, MachineLearning, SQL, ChatBot Development and more
-- 🌱 I’m currently programming my own Discord-Bot
-- 📫 You can reach me on Discord - 1st_firstmine
+## 👋 Hi, I'm Till!
 
-<!---
-TillKloss/TillKloss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 First-year computer science student  
+💻 Python enthusiast  
+📊 Interested in Machine Learning 
+🤖 Chat Bot Developer
+
+🌟 Let's connect!  
+📫 [tilleliaskloss@gmail.com](mailto:youremail@example.com)  
+💬 Discord: 1_st FirstmineCoding
+
+ Check out my [current project](https://github.com/yourusername/yourproject).
+
