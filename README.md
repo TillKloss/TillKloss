@@ -7,7 +7,7 @@
 
 🌟 Let's connect!  
 📫 [tilleliaskloss@gmail.com](mailto:youremail@example.com)  
-💬 Discord: 1_stfirstmine
+💬 Discord: 1st_firstmine
 
  Check out my [current project](https://github.com/yourusername/yourproject).
 
