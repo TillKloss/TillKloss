@@ -5,7 +5,7 @@
 📊 Interested in Machine Learning    
 🤖 Chat Bot Developer
 
-🚀 Check out my [current project](https://github.com/TillKloss/BeastWars).
+🚀 Check out my [current project](https://github.com/TillKloss/Programmieren1/tree/master/Lektionen).
 
 🌟 Let's connect!  
 📫 [My Email](mailto:tilleliaskloss@gmail.com)  
