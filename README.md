@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Till!
 
-🎓 First-year computer science student  
+🎓 Second-year computer science student  
 💻 Python enthusiast     
 🤖 Chat Bot Developer
 
