@@ -1,21 +1,25 @@
-## 👋 Hi, I'm Till!
+<div align="center">
 
-🎓 Second-year computer science student  
-💻 Python enthusiast     
+<h1>👋 Hi, I'm Till!</h1>
+
+<p>
+🎓 Second-year computer science student <br>
+💻 Python enthusiast <br>
 🤖 Chat Bot Developer
+</p>
 
-🌐 [My portfolio](https://github.com/TillKloss/Portfolio)
+<p>
+🌐 <a href="https://github.com/TillKloss/Portfolio">My Portfolio</a>
+</p>
 
-🌟 Let's connect!  
-📫 [My Email](mailto:tilleliaskloss@gmail.com)  
-💬 Discord: 1st_firstmine
-<br><br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TillKloss&theme=github_dark)
+<p>
+📫 <a href="mailto:tilleliaskloss@gmail.com">My Email</a> &nbsp;-&nbsp;
+💬 Discord: <b>1st_firstmine</b>
+</p>
 
+<br>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TillKloss&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TillKloss&theme=github_dark" height="180"/>
 
-
-
-
-
-
+</div>
