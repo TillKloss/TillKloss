@@ -10,6 +10,12 @@
 📫 [My Email](mailto:tilleliaskloss@gmail.com)  
 💬 Discord: 1st_firstmine
 <br><br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tillkloss&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TillKloss&theme=github_dark)
+
+
+
+
+
+
 
 
