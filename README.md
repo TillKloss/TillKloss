@@ -3,13 +3,16 @@
 <h1>👋 Hi, I'm Till!</h1>
 
 <p>
-🎓 Second-year computer science student <br>
-💻 Python enthusiast <br>
-🤖 Chat Bot Developer
+🎓 Second-year computer science student
+</p>
+<p>
+<img src="https://img.shields.io/badge/C%23-.NET-blueviolet?style=for-the-badge" style="margin: 2px;"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="margin: 2px;"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 2px;"/>
 </p>
 
 <p>
-🌐 <a href="https://github.com/TillKloss/Portfolio">My Portfolio</a>
+🌐 <a href="https://github.com/TillKloss/Portfolio">My Website</a> | WIP 😅
 </p>
 
 <p>
