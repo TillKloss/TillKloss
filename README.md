@@ -12,7 +12,7 @@
 </p>
 
 <p>
-🌐 <a href="https://tillkloss.de" target="_blank">My Website</a>
+🌐 <a href="https://tillkloss.de" target="_blank" rel="noopener noreferrer">My Website</a>
 </p>
 
 <p>
