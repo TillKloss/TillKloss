@@ -22,7 +22,7 @@
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TillKloss&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TillKloss&theme=github_dark&v=4" height="180"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TillKloss&theme=github_dark" height="180"/>
 
 </div>
