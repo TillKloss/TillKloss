@@ -12,7 +12,7 @@
 </p>
 
 <p>
-🌐 <a href="https://github.com/TillKloss/Portfolio">My Website</a> | WIP 😅
+🌐 <a href="https://tillkloss.de">My Website</a>
 </p>
 
 <p>
