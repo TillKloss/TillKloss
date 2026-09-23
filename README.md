@@ -3,7 +3,7 @@
 <h1>👋 Hi, I'm Till!</h1>
 
 <p>
-🎓 Second-year computer science student
+🎓 Third-year computer science student
 </p>
 <p>
 <img src="https://img.shields.io/badge/C%23-.NET-blueviolet?style=for-the-badge" style="margin: 2px;"/>
